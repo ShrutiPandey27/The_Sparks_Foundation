@@ -12,3 +12,7 @@ Data Science and Business Analytics Intern @ The Sparks Foundation (GRIP August 
 The project covers the following:
 * tries to  find out the hot zone of terrorism
 * The security issues and insights that can be derived by EDA.
+
+
+
+#dataset available at:https://bit.ly/2TK5Xn5
